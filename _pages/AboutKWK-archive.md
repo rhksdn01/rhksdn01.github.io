@@ -1,5 +1,5 @@
 ---
-title: "About KWK"
+title: "AboutKWK"
 layout: About
 permalink: /About/
 author_profile: true

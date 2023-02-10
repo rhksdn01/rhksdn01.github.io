@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "About KWK"
+title:  "AboutKWK"
 categories: About
 tag: [KWK]
 toc: true
