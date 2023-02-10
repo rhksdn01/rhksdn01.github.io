@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "About KWK"
+title:  "About Kwan Woo Kim"
 categories: Abouts
 tag: [KWK]
 toc: true
