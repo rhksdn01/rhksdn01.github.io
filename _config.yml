@@ -115,7 +115,7 @@ author:
       url: "kkw5164@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://rhksdn01.github.io"
+      url: "https://github.com/rhksdn01/rhksdn01.github.io.git"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rhksdn01"
@@ -128,7 +128,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rhksdn01"
+      url: "https://github.com/rhksdn01/rhksdn01.github.io.git"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
