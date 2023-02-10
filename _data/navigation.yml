@@ -2,8 +2,8 @@
 main:
   - title: "About KWK"
     url: /abouts/AboutKWK/
-  - title: "Research"
-    url: /research/ 
+  - title: "Researches"
+    url: /research/Researches/
   - title: "Category"
     url: /categories/ 
   - title: "Tag"
