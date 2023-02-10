@@ -16,22 +16,23 @@ I am a **biologist**  :sparkles:
 
 ## Education
 
-Ph.D.	Sep. 2018 – Aug. 2023
-				Department of Public Health Sciences
-				Interdisciplinary Program in Precision Public Health
-				Korea University, Republic of Korea
+- **Ph.D.** <br/>
+Sep. 2018 – Aug. 2023 <br/>
+Department of Public Health Sciences<br/>
+Interdisciplinary Program in Precision Public Health<br/>
+Korea University, Republic of Korea<br/>
 
-B.S.  	Mar. 2012 – Feb. 2018
-        Biological and Technical
-        Yonsei University, Republic of Korea
+- **B.S.**<br/>
+Mar. 2012 – Aug. 2018<br/>
+Biological and Technical<br/>
+Yonsei University, Republic of Korea<br/>
 
 ## FUNDING AND AWARDS
 
 - 2018 - 2020     Brain Korea 21 Scholarship, Korea National University
 - 2020 - 2022     Brain Korea 21 Plus Scholarship, Korea National University
 - 2022            Government R&D Real Challenge Program (Team Leader)
-
-
+---
 - 2020            The Microbiological Society of Korea POSTER AWARDS
 - 2021            The Microbiological Society of Korea POSTER AWARDS
 - 2022            BK21 FOUR KU- Future Research Fellowship
