@@ -16,16 +16,16 @@ I am a **biologist**  :sparkles:
 
 ## Education
 
-- **Ph.D.**
-Sep. 2018 – Aug. 2023
-Department of Public Health Sciences
-Interdisciplinary Program in Precision Public Health
-Korea University, Republic of Korea
+- **Ph.D.** <br/>
+Sep. 2018 – Aug. 2023 <br/>
+Department of Public Health Sciences<br/>
+Interdisciplinary Program in Precision Public Health<br/>
+Korea University, Republic of Korea<br/>
 
-- **B.S.**
-Mar. 2012 – Aug. 2018
-Biological and Technical
-Yonsei University, Republic of Korea
+- **B.S.**<br/>
+Mar. 2012 – Aug. 2018<br/>
+Biological and Technical<br/>
+Yonsei University, Republic of Korea<br/>
 
 ## FUNDING AND AWARDS
 
