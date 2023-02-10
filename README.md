@@ -32,8 +32,7 @@ Yonsei University, Republic of Korea<br/>
 - 2018 - 2020     Brain Korea 21 Scholarship, Korea National University
 - 2020 - 2022     Brain Korea 21 Plus Scholarship, Korea National University
 - 2022            Government R&D Real Challenge Program (Team Leader)
-
-
+---
 - 2020            The Microbiological Society of Korea POSTER AWARDS
 - 2021            The Microbiological Society of Korea POSTER AWARDS
 - 2022            BK21 FOUR KU- Future Research Fellowship
