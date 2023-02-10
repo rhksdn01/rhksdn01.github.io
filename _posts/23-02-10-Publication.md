@@ -6,7 +6,7 @@ tag: [Paper, Article, pubilcation]
 toc: true
 author_profile: false
 sidebar: 
-    nav: "docs"
+    nav: "counts"
 ---
 
 # Publication 

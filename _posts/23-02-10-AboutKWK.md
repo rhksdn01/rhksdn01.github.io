@@ -6,7 +6,7 @@ tag: [KWK]
 toc: true
 author_profile: false
 sidebar: 
-    nav: "docs"
+    nav: "counts"
 ---
 
 # Kwan Woo Kim에 대한 소개
