@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "AboutKWK"
-categories: About
+title:  "About KWK"
+categories: Abouts
 tag: [KWK]
 toc: true
 author_profile: false
