@@ -1,7 +1,7 @@
 ---
 title: "About KWK"
 layout: post
-permalink: /About/AboutKWK/
+permalink: /About/
 author_profile: true
 sidebar_main: true
 ---
