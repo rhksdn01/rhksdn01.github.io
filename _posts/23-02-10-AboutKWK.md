@@ -3,7 +3,7 @@ layout: single
 title:  "About Kwan Woo Kim"
 categories: Abouts
 tag: [KWK]
-toc: true
+toc_icon: true
 author_profile: false
 sidebar: 
     nav: "counts"
