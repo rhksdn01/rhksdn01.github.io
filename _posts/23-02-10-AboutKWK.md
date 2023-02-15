@@ -32,7 +32,7 @@ Kwan Woo Kim에 대한 소개입니다.  <br/>
 
 - **B.S.**
 
-  Mar. 2012 – Aug. 2018 <br/>Biological and Technical <br/>
+  Mar. 2012 – Aug. 2018 <br/>Applied Biological Science <br/>
   Yonsei University, Republic of Korea <br/>
   
 
