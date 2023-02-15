@@ -42,6 +42,9 @@ Let's me explain my research area
 
 ### Viral Whole-Genome Sequencing using NGS
 <br/>
+
+![1-1]({{site.url}}/images/23-02-10-Researches/1-1.png)
+
 <br/>
 <br/>
 
