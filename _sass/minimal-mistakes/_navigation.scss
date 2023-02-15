@@ -515,7 +515,11 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+
+    // default: background: $primary-color;
+    /*background: $primary-color;*/
+    background: #b0d4c3;
+
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
