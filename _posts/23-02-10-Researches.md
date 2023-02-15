@@ -25,12 +25,14 @@ Let's me explain my research area
 ####  SARS-CoV-1 & SARS-CoV-2 ; Clade B
 <br/>
 <br/>
-<br/>
 
 ####  MERS-CoV; Clade C
 <br/>
 
 <br/>![Fig.2_600]({{site.url}}/images/23-02-10-Researches/Fig.2_600.jpg)
+
+
+
 <br/>
 
 
@@ -44,6 +46,36 @@ Let's me explain my research area
 <br/>
 <br/>
 
+
+
+## Rift Valley fever virus (RVFV)
+
+![RVFV_1]({{site.url}}/images/23-02-10-Researches/RVFV_1.png)
+
+<br/>
+
+![RVFV_2]({{site.url}}/images/23-02-10-Researches/RVFV_2.png)
+
+### Development of vrial diagnosis method
+
+
+
+![1]({{site.url}}/images/23-02-10-Researches/1.png)
+
+<br/>Fig 1. Limitation of detection (LOD) determined by MinION sequencing.
+
+Table 1. Nucleotide positions showing variation depending on sequencing methods
+
+![2]({{site.url}}/images/23-02-10-Researches/2.png)
+
+![3]({{site.url}}/images/23-02-10-Researches/3.png)
+
+Fig 2. Typing of five clinical samples amplified by singleplex and multiplex PCRs.
+
+<br/>
+
+
+
 ### Viral Whole-Genome Sequencing using NGS
 <br/>
 
@@ -52,11 +84,13 @@ Let's me explain my research area
 <br/>
 <br/>
 
-## Development of diagnosis pipeline
+## Development of bioinformatics pipeline
 
 ![2-1]({{site.url}}/images/23-02-10-Researches/2-1.png)
 
+<br/>
 
+![RVFV_3]({{site.url}}/images/23-02-10-Researches/RVFV_3.png)
 
 ## Microbiome
 
