@@ -4,9 +4,11 @@ title:  "About Kwan Woo Kim"
 categories: Abouts
 tag: [KWK]
 toc_icon: true
+toc: true
 author_profile: false
 sidebar: 
     nav: "counts"
+classes: wide
 ---
 
 # About KWK
