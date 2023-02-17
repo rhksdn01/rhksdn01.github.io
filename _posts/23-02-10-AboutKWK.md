@@ -30,7 +30,7 @@ Kwan Woo Kim에 대한 소개입니다.  <br/>
 
 - **Ph.D.**
 
-  Sep. 2018 – Aug. 2023 <br/>Department of Public Health Sciences <br/>Interdisciplinary Program in Precision Public Health <br/>Korea University, Republic of Korea <br/>
+  Sep. 2018 – Aug. 2023 <br/>Department of Public Health Sciences Major in Biomedical and Food Science <br/>Convergence Major in Precision Public Health <br/>Korea University, Republic of Korea <br/>
 
 - **B.S.**
 
