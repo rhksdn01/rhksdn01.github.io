@@ -56,7 +56,7 @@ Let's me explain my research area
 
 ![RVFV_2]({{site.url}}/images/23-02-10-Researches/RVFV_2.png)
 
-### Development of vrial diagnosis method
+### Development of viral diagnosis method
 
 
 
