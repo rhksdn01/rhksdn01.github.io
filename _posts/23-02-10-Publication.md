@@ -26,8 +26,12 @@ Choi S†, **Kim KW†**(co-first), Ku KB, Kim S-J, Park C, Park D, Kim S and Yi
 
 3.Rapid and sensitive amplicon-based genome sequencing of SARS-CoV-2
 
-Park C†, **Kim KW†**(co-first), Park D, Hassan Zu, Park EC, Lee C-S, Rahman MDT, Yi H and Kim S (2022) Rapid and sensitive amplicon-based genome sequencing of SARS-CoV-2. Front. Microbiol. 13:876085. doi: 10.3389/fmicb.2022.876085
+Park C†, **Kim KW†**(co-first), Park D, Hassan Zu, Park EC, Lee C-S, Rahman MDT, Yi H and Kim S (2022) Rapid and sensitive amplicon-based genome sequencing of SARS-CoV-2. Front. Microbiol. 13:876085. doi: 10.3389/fmicb.2022.876085.
 [Paper 3](https://doi.org/10.3389/fmicb.2022.876085){: .btn .btn--inverse}
+
+4.Universal Primers for Rift Valley Fever Virus Whole Genome Sequencing
+
+KW Kim, BS Lee, SJ Eom, DH Shin, C Park, S Kim* and Hana Yi* . Universal Primers for Rift Valley Fever Virus Whole Genome Sequencing. Scientific Report. 2023. (Under Review).
 
 ## Microbiology
 
@@ -36,3 +40,6 @@ Park C†, **Kim KW†**(co-first), Park D, Hassan Zu, Park EC, Lee C-S, Rahman 
 Kim D-U†, **Kim KW†**(co-first), Kang M-S, Kim J-Y, Jang JH et al. Adhaeribacter swui sp. nov., isolated from wet mud. Int J Syst Evol Microbiol. 2018;68:1096–1100.
 [Paper 1](https://doi.org/10.1099/ijsem.0.002631){: .btn .btn--inverse}
 
+2.Subspecies-level genome comparison of Lactobacillus delbrueckii
+
+MG Baek, KW Kim and H Yi. Subspecies-level genome comparison of Lactobacillus delbrueckii. Scientific Report. 2023. (In Press).
