@@ -41,9 +41,7 @@ Kwan Woo Kim에 대한 소개입니다.  <br/>
 ## FUNDING AND AWARDS
 
 - 2018 - 2020     Brain Korea 21 Scholarship, Korea National University
-
 - 2020 - 2022     Brain Korea 21 Plus Scholarship, Korea National University
-
 - 2022            Government R&D Real Challenge Program (Team Leader)
 
   ---
