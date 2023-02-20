@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "custom" # "air", "aqua", "contrast", "dark", "dirt",
 locale                   : "Ko-KR"
 title                    : "Kwan Woo Kim's web site"
 title_separator          : "|"
-subtitle                 : "Viology | Microbiology | Microbiome | Bioinformatics"
+subtitle                 : "Virology | Microbiology | Microbiome | Bioinformatics"
 name                     : "Kwan Woo Kim"
 description              : "A Biologist website."
 url                      : "https://rhksdn01.github.io"
