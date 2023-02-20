@@ -9,9 +9,9 @@ sidebar:
     nav: "counts"
 ---
 
-# Publication 
+# Publication and Patents
 
-제가 연구한 논문들 입니다. 
+제가 연구한 논문들과 특허들 입니다. 
 
 ## Virology
 1.A Half-Day Genome Sequencing Protocol for Middle East Respiratory Syndrome Coronavirus
@@ -43,3 +43,9 @@ Kim D-U†, **Kim KW†**(co-first), Kang M-S, Kim J-Y, Jang JH et al. Adhaeriba
 2.Subspecies-level genome comparison of Lactobacillus delbrueckii
 
 MG Baek, **KW Kim** and H Yi. Subspecies-level genome comparison of Lactobacillus delbrueckii. Scientific Report. 2023. (In Press).
+
+
+
+## Patents
+
+제가 출원한 특허들 입니다. 
