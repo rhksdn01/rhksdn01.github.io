@@ -1,0 +1,101 @@
+---
+layout: single
+title:  "Coronavirus"
+categories: research-1
+tag: [research, WGS, NGS, coronavirus]
+toc: true
+author_profile: false
+sidebar: 
+    nav: "counts"
+---
+
+# My Research Area 
+
+Let's me explain my research area
+
+
+
+## Coronavirus 
+### Betacorinavirus
+#### OC43-CoV; Clade A
+<br/>
+<br/>
+<br/>
+
+####  SARS-CoV-1 & SARS-CoV-2 ; Clade B
+<br/>
+<br/>
+
+####  MERS-CoV; Clade C
+<br/>
+
+<br/>![Fig.2_600]({{site.url}}/images/23-02-10-Researches/Fig.2_600.jpg)
+
+
+
+<br/>
+
+
+
+### Alphacoronavirus
+
+<br/>
+
+![Fig3]({{site.url}}/images/23-02-10-Researches/Fig3.png)
+
+<br/>
+<br/>
+
+
+
+## Rift Valley fever virus (RVFV)
+
+![RVFV_1]({{site.url}}/images/23-02-10-Researches/RVFV_1.png)
+
+<br/>
+
+![RVFV_2]({{site.url}}/images/23-02-10-Researches/RVFV_2.png)
+
+### Development of viral diagnosis method
+
+
+
+![1]({{site.url}}/images/23-02-10-Researches/1.png)
+
+<br/>Fig 1. Limitation of detection (LOD) determined by MinION sequencing.
+
+Table 1. Nucleotide positions showing variation depending on sequencing methods
+
+![2]({{site.url}}/images/23-02-10-Researches/2.png)
+
+![3]({{site.url}}/images/23-02-10-Researches/3.png)
+
+Fig 2. Typing of five clinical samples amplified by singleplex and multiplex PCRs.
+
+<br/>
+
+
+
+### Viral Whole-Genome Sequencing using NGS
+<br/>
+
+![1-1]({{site.url}}/images/23-02-10-Researches/1-1.png)
+
+<br/>
+<br/>
+
+## Development of bioinformatics pipeline
+
+![2-1]({{site.url}}/images/23-02-10-Researches/2-1.png)
+
+<br/>
+
+![RVFV_3]({{site.url}}/images/23-02-10-Researches/RVFV_3.png)
+
+## Microbiome
+
+
+## Identification of Bacteria
+
+
+

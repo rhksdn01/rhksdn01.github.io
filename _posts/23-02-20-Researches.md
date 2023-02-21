@@ -15,21 +15,21 @@ excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim e
 author_profile: true
 
 intro: 
-  - excerpt: 'Virology'
+  - excerpt: '**Virology**'
 
 feature_row:
   - image_path: /assets/images/coronavirus.jpg
     title: "Coronavirus(CoV)"
     excerpt: "Sample text 1 with **markdown** formatting."
-    url: "#test-link"
+    url: "/research-1/Coronavirus/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/RVFV.jpg
     title: "Rift Valley fever virus(RVFV)"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/research-2/RVFV/"
     btn_label: "Read More"
-    btn_class: "btn--secondar"
+    btn_class: "btn--primary"
   - image_path: /assets/images/home.jpg
     title: "Dengue fever virus(DENV)"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -41,7 +41,7 @@ feature_row2:
   - image_path: /assets/images/home.jpg
     title: "Identification of Bacteria"
     excerpt: "Sample text 1 with **markdown** formatting."
-    url: "#test-link"
+    url: "/research-4/Identification/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/microbiome.png
@@ -49,7 +49,7 @@ feature_row2:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--secondar"
+    btn_class: "btn--primary"
   - image_path: /assets/images/home.jpg
     title: "Compararive genomes for bacteria"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -62,7 +62,7 @@ feature_row3:
     alt: "Genome Assembly pipeline"
     title: "Virus Genome Assembly"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    url: "/research-3/genome_assembly/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
