@@ -5,9 +5,7 @@ categories: Abouts
 tag: [KWK]
 toc_icon: true
 toc: true
-author_profile: false
-sidebar: 
-    nav: "counts"
+author_profile: true
 classes: wide
 ---
 

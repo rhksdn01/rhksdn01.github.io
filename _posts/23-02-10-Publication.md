@@ -4,9 +4,7 @@ title:  "Publication"
 categories: Paper
 tag: [Paper, Article, pubilcation]
 toc: true
-author_profile: false
-sidebar: 
-    nav: "counts"
+author_profile: true
 ---
 
 # Publication and Patents
