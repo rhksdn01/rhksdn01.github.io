@@ -1,6 +1,6 @@
 ---
 layout: splash
-title:  "Researches"
+title: 'Researches'
 categories: Researches
 tag: [research, WGS, NGS, coronavirus, Microbiology, Virology, Microbiome]
 author_profile: false
