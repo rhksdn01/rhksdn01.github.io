@@ -1,8 +1,8 @@
 ---
 layout: splash
-title: 'Researches'
+title:  "Researches"
 categories: Researches
-tag: [research, WGS, NGS, coronavirus, Microbiology, Virology, Microbiome]
+tag: [research, WGS, NGS, coronavirus, Microbiology, Virology, Microbiome, test]
 author_profile: false
 classes: wide
 header:
@@ -11,7 +11,7 @@ header:
   actions:
     - label: "Github"
       url: "https://github.com/rhksdn01/rhksdn01.github.io.git"
-excerpt: 'This page is Research of Kwan Woo Kim. Let's me explain Research Area of KWK.'
+excerpt: 'This is explanation page of KWK Rearch. Let me explain Research Area of KWK.'
 author_profile: true
 
 intro: 

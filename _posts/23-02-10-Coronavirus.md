@@ -23,15 +23,9 @@ Coronaviruses have had a major impact on mankind since the mid-1960s. They are c
 ---
 
 ####  SARS-CoV-1 & SARS-CoV-2 ; Clade B
-<br/>
-
 Severe acute respiratory syndrome coronavirus(SARS-CoV) is a species belonging to the genus beta coronavirus of the family Coronaviridae under Nidovirales (order). There are some species. The representitive species is SARS-CoV-1 and SARS-CoV-2(so called **COVID-19** ). <br/>
 
-<br/>
-
 ![20210810_Figure1]({{site.url}}/images/23-02-10-Coronavirus/20210810_Figure1.jpg)
-
-<br/>
 
 ####  MERS-CoV; Clade C
 <br/>
@@ -42,11 +36,8 @@ Midlle East Respiratory Syndrome Coronavirus (MERS-CoV) is a species belonging t
 
 <br/>
 
-<br/>
-
 #### OC43-CoV; Clade A
 
-<br/>
 <br/>
 
 
