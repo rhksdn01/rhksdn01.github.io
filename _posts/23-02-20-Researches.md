@@ -11,7 +11,7 @@ header:
   actions:
     - label: "Github"
       url: "https://github.com/rhksdn01/rhksdn01.github.io.git"
-excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+excerpt: 'This is Kwan Woo Kim's Research page. Let's me explain KWK's Research Area.'
 author_profile: true
 
 intro: 
