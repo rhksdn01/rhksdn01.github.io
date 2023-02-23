@@ -11,7 +11,7 @@ header:
   actions:
     - label: "Github"
       url: "https://github.com/rhksdn01/rhksdn01.github.io.git"
-excerpt: 'This is Kwan Woo Kim's Research page. Let's me explain KWK's Research Area.'
+excerpt: 'This page is Research of Kwan Woo Kim. Let's me explain Research Area of KWK.'
 author_profile: true
 
 intro: 
