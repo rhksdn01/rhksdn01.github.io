@@ -40,8 +40,8 @@ Kim D-U†, **Kim KW†**(co-first), Kang M-S, Kim J-Y, Jang JH et al. Adhaeriba
 
 2.Subspecies-level genome comparison of Lactobacillus delbrueckii
 
-MG Baek, **KW Kim** and H Yi. Subspecies-level genome comparison of Lactobacillus delbrueckii. Scientific Report. 2023. (In Press).
-
+Baek, Mg., **Kim, K.W.** & Yi, H. Subspecies-level genome comparison of Lactobacillus delbrueckii. Sci Rep 13, 3171 (2023). https://doi.org/10.1038/s41598-023-29404-3 .
+[Paper 2](https://doi.org/10.1038/s41598-023-29404-3){: .btn .btn--inverse}
 
 
 ## Patents
