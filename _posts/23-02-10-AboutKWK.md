@@ -67,11 +67,15 @@ Kwan Woo Kim에 대한 소개입니다.  <br/>
   
 
 ### Genomics and genome data mining <br/>
-
+- shell script 
+- AWK & SED
+- R 
+- Python
 
 
 ### Virus diagnosis protocol development <br/>
-
+- Viral whole genome assemble
+- Development pipeline for viral whole genome 
 
 
 ### Next-Generation Sequencing and Bioinformatics Analysis
@@ -83,8 +87,8 @@ Kwan Woo Kim에 대한 소개입니다.  <br/>
 
 
 ### Microbiome Analysis
-- 16S rRNA amplicon-based metagenome analysis
-- Whole metagnome shotgun analysis <br/>
+- 16S rRNA amplicon-based metagenome analysis (QIIME 1&2, MUTHER)
+- Whole metagnome shotgun analysis (MetaPhlAn 4, HUMAnN 3) <br/>
 
 
 
