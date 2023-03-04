@@ -66,17 +66,15 @@ Kwan Woo Kim에 대한 소개입니다.  <br/>
 - Physiological analysis <br/>
   
 
-### Genomics and genome data mining <br/>
+### Genomics and genome data mining
 - shell script 
 - AWK & SED
 - R 
-- Python
+- Python <br/>
 
-
-### Virus diagnosis protocol development <br/>
+### Virus diagnosis protocol development 
 - Viral whole genome assemble
-- Development pipeline for viral whole genome 
-
+- Development pipeline for viral whole genome  <br/>
 
 ### Next-Generation Sequencing and Bioinformatics Analysis
 
@@ -84,8 +82,6 @@ Kwan Woo Kim에 대한 소개입니다.  <br/>
 - Pacific Bioscience sequeuncing (RSⅡ)
 - Illumina sequencing (HiSeq, MiSeq, iSeq) <br/>
   
-
-
 ### Microbiome Analysis
 - 16S rRNA amplicon-based metagenome analysis (QIIME 1&2, MUTHER)
 - Whole metagnome shotgun analysis (MetaPhlAn 4, HUMAnN 3) <br/>
