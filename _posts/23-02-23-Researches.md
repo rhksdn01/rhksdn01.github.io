@@ -58,7 +58,7 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/home.jpg
+  - image_path: /assets/images/bioinfo_fig.png
     alt: "Genome Assembly pipeline"
     title: "Virus Genome Assembly"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'

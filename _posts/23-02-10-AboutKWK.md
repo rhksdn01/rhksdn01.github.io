@@ -47,8 +47,8 @@ Kwan Woo Kim에 대한 소개입니다.  <br/>
 
 - 2020            The Microbiological Society of Korea POSTER AWARDS
 - 2021            The Microbiological Society of Korea POSTER AWARDS
-- 2022            BK21 FOUR KU- Future Research Fellowship <br/>
-
+- 2022            BK21 FOUR KU-Future Research Fellowship
+- 2023            고려대학교 보건과학대학 우수논문상 <br/>
   
 
 
