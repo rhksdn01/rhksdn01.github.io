@@ -83,7 +83,7 @@ Kwan Woo Kim에 대한 소개입니다.  <br/>
 - Illumina sequencing (HiSeq, MiSeq, iSeq) <br/>
   
 ### Microbiome Analysis
-- 16S rRNA amplicon-based metagenome analysis (QIIME 1&2, MUTHER)
+- 16S rRNA amplicon-based metagenome analysis (QIIME 1&2, Mothur)
 - Whole metagnome shotgun analysis (MetaPhlAn 4, HUMAnN 3) <br/>
 
 

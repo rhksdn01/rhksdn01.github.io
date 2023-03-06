@@ -46,7 +46,7 @@ feature_row2:
     btn_class: "btn--primary"
   - image_path: /assets/images/microbiome.png
     title: "Microbiome"
-    excerpt: "Shotgum Metagenome analysis, 16s Metagenome analysis"
+    excerpt: "Shotgun Metagenome analysis, 16s Metagenome analysis"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
