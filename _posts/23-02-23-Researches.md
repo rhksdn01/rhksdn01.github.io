@@ -60,8 +60,8 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/bioinfo_fig.png
     alt: "Genome Assembly pipeline"
-    title: "Virus Genome Assembly"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    title: "Virus Genome Analysis"
+    excerpt: 'Virus Whole Genome Assembly, Phylogenetic Analysis, Comparative whole genome'
     url: "/research-3/genome_assembly/"
     btn_label: "Read More"
     btn_class: "btn--primary"
