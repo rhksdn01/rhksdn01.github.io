@@ -20,19 +20,19 @@ intro:
 feature_row:
   - image_path: /assets/images/coronavirus.jpg
     title: "Coronavirus(CoV)"
-    excerpt: "Sample text 1 with **markdown** formatting."
+    excerpt: "Alpha-CoV(229E, NL63), Beta-CoV(OC43, MERS, SARS)"
     url: "/research-1/Coronavirus/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/RVFV.jpg
     title: "Rift Valley fever virus(RVFV)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "RVFV(ZH-548, Kenya 56 (IB8), BIME-01, Lunyo)"
     url: "/research-2/RVFV/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/home.jpg
     title: "Dengue fever virus(DENV)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "DENV"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -40,19 +40,19 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/home.jpg
     title: "Identification of Bacteria"
-    excerpt: "Sample text 1 with **markdown** formatting."
+    excerpt: "Isolation of novel bacteria"
     url: "/research-4/Identification/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/microbiome.png
     title: "Microbiome"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Shotgum Metagenome analysis, 16s Metagenome analysis"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/home.jpg
     title: "Compararive genomes for bacteria"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Pan-genome, Accessory genome"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
