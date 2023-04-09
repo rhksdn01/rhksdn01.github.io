@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Kwan Woo Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/KKW_blue.jpg"
   bio              : "I am a **Biologist**."
   location         : "Rebulic of Korea"
   email            : 
