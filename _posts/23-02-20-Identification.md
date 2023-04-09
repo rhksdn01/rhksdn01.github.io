@@ -5,6 +5,7 @@ categories: research-4
 tag: [research, Bacteria, Identification]
 toc: true
 author_profile: false
+typora-root-url: ../
 ---
 
 # My Research Area 
@@ -31,4 +32,4 @@ Bacteria identification.
 
 
 
-![bacteria_genome]({{site.url}}/images/23-02-20-Identification/bacteria_genome.png)
+![2019MSK_190402](/assets/images/23-02-20-Identification/2019MSK_190402.jpg)
