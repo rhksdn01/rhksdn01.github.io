@@ -12,8 +12,6 @@ typora-root-url: ../
 
 Let's me explain my research area
 
-
-
 ## Coronavirus 
 Coronaviruses have had a major impact on mankind since the mid-1960s. They are classified into four distinct genera: alpha, beta, gamma, and delta. Both alpha and betacoronaviruses are known to cause diseases in humans.
 
@@ -24,9 +22,15 @@ Coronaviruses have had a major impact on mankind since the mid-1960s. They are c
 ---
 
 ####  SARS-CoV-1 & SARS-CoV-2 ; Clade B
-Severe acute respiratory syndrome coronavirus(SARS-CoV) is a species belonging to the genus beta coronavirus of the family Coronaviridae under Nidovirales (order). There are some species. The representitive species is SARS-CoV-1 and SARS-CoV-2(so called **COVID-19** ). <br/>
+Severe acute respiratory syndrome coronavirus(SARS-CoV) is a species belonging to the genus beta coronavirus of the family Coronaviridae under Nidovirales (order). There are some species. The representitive species is SARS-CoV-1 and SARS-CoV-2(so called **COVID-19** ). 
 
-![20210810_Figure1]({{site.url}}/images/23-02-10-Coronavirus/20210810_Figure1.jpg)
+A major concern in COVID-19 outbreaks is the rapid mutation of SARS-CoV-2 viruses. The current variant typing of SARS-CoV-2 solely depends on whole genome sequencing (WGS). Thus, rapid and accurate genome sequencing of the virus is essential. In this study, we aimed to develop a rapid WGS protocol using universal primers spanning the entire genome of SARS-CoV-2. We have designed 11 pairs of SARS-CoV-2 universal primers which cover 7 genome clades (Clade of S, L, V, G, GR, GH, and GV) and 2 variants (B1.1.7 and B.1.135). The 9 viral strain’s RNAs extracted from cell cultures were used as template of PCR. The 3 kb amplicons were synthesized from the 11 primer pairs. The MinION sequencing reads were assembled into a complete genome with accuracy of 99.94-99.98%. Finally, the developed protocol was applied to five clinical samples. The results showed that the complete genome sequencing and variant typing could be directly obtained from clinical samples. Consequently, this method would contribute to rapid COVID-19 diagnosis, particularly in public health surveillance. 
+
+<br/>
+
+![2022KOGO_KKW_poster](/assets/images/23-02-10-Coronavirus/2022KOGO_KKW_poster.jpg)
+
+<br/>
 
 ####  MERS-CoV; Clade C
 <br/>
@@ -44,6 +48,10 @@ Full genome sequencing is essential to verify any variations of viral pathogens.
 <br/>
 
 #### OC43-CoV; Clade A
+
+<br/>
+
+![2022 KOGO_Betacoronavirus_김관우](/assets/images/23-02-10-Coronavirus/2022 KOGO_Betacoronavirus_김관우.jpg)
 
 <br/>
 
