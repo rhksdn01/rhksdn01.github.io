@@ -5,6 +5,7 @@ categories: research-3
 tag: [research, WGS, NGS, bioinformatics, genome_assembly]
 toc: true
 author_profile: false
+typora-root-url: ../
 ---
 
 # My Research Area 
@@ -12,19 +13,23 @@ author_profile: false
 Let's me explain my research area
 
 
-## Viral Whole-Genome Sequencing using NGS
-<br/>
+## Next-Generation Sequencing Result
+- NGS data analysis
 
-![1-1]({{site.url}}/images/23-02-10-Researches/1-1.png)
+![QC](/assets/images/23-02-20-genome_assembly/QC.jpg)
 
-<br/>
+
+
+![QC1](/assets/images/23-02-20-genome_assembly/QC1.jpg)
+
 <br/>
 
 ## Development of bioinformatics pipeline
 
-![2-1]({{site.url}}/images/23-02-10-Researches/2-1.png)
 
-<br/>
 
-![RVFV_3]({{site.url}}/images/23-02-10-Researches/RVFV_3.png)
+![pipeline1](/assets/images/23-02-20-genome_assembly/pipeline1.jpg)
 
+![pipeline](/assets/images/23-02-20-genome_assembly/pipeline.jpg)
+
+[Pipeline_code](https://github.com/rhksdn01/bioinformatics_pipeline){: .btn .btn--inverse}
