@@ -64,10 +64,6 @@ Full genome sequencing is essential to verify any variations of viral pathogens.
 
 alphacoronaviruses have received relatively little attention due to their low fatality rate (Vassilara et al., 2018). Two types of alphacoronaviruses infect humans: HCoV-229E, which was first described in the mid-1960s, and HCoV-NL63, which was identified in 2004. These two types of alphacoronaviruses are known to cause 30% of common colds in humans (Su et al., 2016).
 
-
-
-![Fig3]({{site.url}}/images/23-02-10-Researches/Fig3.png)
+![ASM_190619_smchoi](/assets/images/23-02-10-Coronavirus/ASM_190619_smchoi.jpg)
 
 <br/>
-<br/>
-
