@@ -24,7 +24,7 @@ feature_row:
     url: "/research-1/Coronavirus/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/RVFV.jpg
+  - image_path: /assets/images/virus1.jpg
     title: "Rift Valley fever virus(RVFV)"
     excerpt: "RVFV(ZH-548, Kenya 56 (IB8), BIME-01, Lunyo)"
     url: "/research-2/RVFV/"
