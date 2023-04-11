@@ -38,7 +38,7 @@ feature_row:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/home.jpg
+  - image_path: /assets/images/bacteria.jpg
     title: "Identification of Bacteria"
     excerpt: "Isolation of novel bacteria"
     url: "/research-4/Identification/"
