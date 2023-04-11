@@ -44,7 +44,7 @@ feature_row2:
     url: "/research-4/Identification/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/microbiome.png
+  - image_path: /assets/images/mix.jpg
     title: "Microbiome"
     excerpt: "Shotgun Metagenome analysis, 16s Metagenome analysis"
     url: "#test-link"
