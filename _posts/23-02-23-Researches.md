@@ -30,7 +30,7 @@ feature_row:
     url: "/research-2/RVFV/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/home.jpg
+  - image_path: /assets/images/virus.jpg
     title: "Dengue fever virus(DENV)"
     excerpt: "DENV"
     url: "#test-link"
@@ -50,7 +50,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/home.jpg
+  - image_path: /assets/images/DNA.jpg
     title: "Compararive genomes for bacteria"
     excerpt: "Pan-genome, Accessory genome"
     url: "#test-link"
