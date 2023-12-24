@@ -61,8 +61,12 @@ Kwan Woo Kim에 대한 소개입니다.  <br/>
 
 ### Taxonomic analysis 
 
-- Phylogenetic analysis
-- Biochemical analysis
+- Phylogenetic analysis:<br/> Neighbor joining, Maximum likelihood(iqtree and RAxML), Bayesian method(BEAST and tMRCA)
+
+- Biochemical analysis:<br/>
+
+  *Short*-*chain fatty acids* (SCFAs), MIDI, Polar lipid
+
 - Physiological analysis <br/>
   
 
