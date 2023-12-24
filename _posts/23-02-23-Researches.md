@@ -33,7 +33,7 @@ feature_row:
   - image_path: /assets/images/virus.jpg
     title: "Dengue fever virus(DENV)"
     excerpt: "DENV"
-    url: "#test-link"
+    url: "/research-3/DENV/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
