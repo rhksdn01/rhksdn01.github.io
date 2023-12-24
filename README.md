@@ -46,8 +46,10 @@ Yonsei University, Republic of Korea<br/>
 
 ### Taxonomic analysis 
 
-- Phylogenetic analysis
-- Biochemical analysis
+- Phylogenetic analysis:
+  Neighbor joining, Maximum likelihood(iqtree, RAxML), Bayesian method(BEAST, tMRCA)
+- Biochemical analysis:
+  Short-chain fatty acids (SCFAs), MIDI, Polar Lipid anlysis
 - Physiological analysis
 
 ### Genomics and genome data mining
@@ -58,7 +60,7 @@ Yonsei University, Republic of Korea<br/>
 
 - Oxford Nanopore sequeuncing (MinION MK1B, MK1C, GridION)
 - Pacific Bioscience sequeuncing (RSⅡ)
-- Illumina sequencing (HiSeq, MiSeq, iSeq)
+- Illumina sequencing (HiSeq, MiSeq, iSeq, MiniSeq)
 
 
 ### Microbiome Analysis
