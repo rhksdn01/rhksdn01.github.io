@@ -29,7 +29,7 @@ Park C†, **Kim KW†**(co-first), Park D, Hassan Zu, Park EC, Lee C-S, Rahman 
 
 4.Universal Primers for Rift Valley Fever Virus Whole Genome Sequencing
 
-**Kim, K.W.**, Lee, B., Eom, S. *et al.* Universal primers for rift valley fever virus whole-genome sequencing. *Sci Rep* **13**, 18688 (2023).
+**Kim, K.W.**, Lee, B., Eom, S. *et al.* Universal primers for rift valley fever virus whole-genome sequencing. *Sci Rep* 13, 18688 (2023).
 [Paper 4](https://doi.org/10.1038/s41598-023-45848-z){: .btn .btn--inverse}
 
 ## Microbiology
