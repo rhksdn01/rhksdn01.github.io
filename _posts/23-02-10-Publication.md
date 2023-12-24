@@ -29,7 +29,7 @@ Park C†, **Kim KW†**(co-first), Park D, Hassan Zu, Park EC, Lee C-S, Rahman 
 
 4.Universal Primers for Rift Valley Fever Virus Whole Genome Sequencing
 
-**Kim, K.W.**, Lee, B., Eom, S. *et al.* Universal primers for rift valley fever virus whole-genome sequencing. *Sci Rep* 13, 18688 (2023).
+**Kim, K.W.**, Lee, B., Eom, S Eom, D Shin, C Park, S Kim and H Yi. Universal primers for rift valley fever virus whole-genome sequencing. *Sci Rep* 13, 18688 (2023). doi: 10.1038/s41598-023-45848-z.
 [Paper 4](https://doi.org/10.1038/s41598-023-45848-z){: .btn .btn--inverse}
 
 ## Microbiology
@@ -41,7 +41,7 @@ Kim D-U†, **Kim KW†**(co-first), Kang M-S, Kim J-Y, Jang JH et al. Adhaeriba
 
 2.Subspecies-level genome comparison of Lactobacillus delbrueckii
 
-Baek, Mg., **Kim, K.W.** & Yi, H. Subspecies-level genome comparison of Lactobacillus delbrueckii. Sci Rep 13, 3171 (2023).
+Baek, Mg., **Kim, K.W.** & Yi, H. Subspecies-level genome comparison of Lactobacillus delbrueckii. Sci Rep 13, 3171 (2023). doi: 10.1038/s41598-023-29404-3.
 [Paper 2](https://doi.org/10.1038/s41598-023-29404-3){: .btn .btn--inverse}
 
 
