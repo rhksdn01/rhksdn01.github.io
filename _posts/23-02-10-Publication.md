@@ -32,6 +32,10 @@ Park C†, **Kim KW†**(co-first), Park D, Hassan Zu, Park EC, Lee C-S, Rahman 
 **Kim, K.W.**, Lee, B., Eom, S Eom, D Shin, C Park, S Kim and H Yi. Universal primers for rift valley fever virus whole-genome sequencing. *Sci Rep* 13, 18688 (2023). doi: 10.1038/s41598-023-45848-z.
 [Paper 4](https://doi.org/10.1038/s41598-023-45848-z){: .btn .btn--inverse}
 
+5.Molecular evolution and genetic diversity analysis of severe fever with thrombocytopenia syndrome virus
+
+**Kim, K.W.**  2024.  (under review).
+
 ## Microbiology
 
 1.Adhaeribacter swui sp. nov., isolated from wet mud
