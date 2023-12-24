@@ -33,3 +33,9 @@ Let's me explain my research area
 ![pipeline](/assets/images/23-02-20-genome_assembly/pipeline.jpg)
 
 [Pipeline_code](https://github.com/rhksdn01/bioinformatics_pipeline){: .btn .btn--inverse}
+
+<br/>
+
+## Summary
+
+![summary](/assets/images/23-02-20-genome_assembly/summary.png)
