@@ -11,9 +11,12 @@ classes: wide
 
 # <center>Kwan Woo Kim, PhD.</center>
 
-<center>Center for Study of Emerging and Re-emerging Viruses </center> <br/>
-<center>Korea Virus Research Institute (KVRI) </center><br/>
-<center>Institute for Basic Science (IBS) </center><br/>
+- Working place:<br/>
+
+<center>Center for Study of Emerging and Re-emerging Viruses </center>
+<center>Korea Virus Research Institute (KVRI) </center>
+<center>Institute for Basic Science (IBS) </center>
+<center>(Post-Doctoral Research Associate, Sep. 2023 ~ Now)</center>
 
 ## <center>Research Area</center>
 
@@ -36,7 +39,7 @@ classes: wide
   Yonsei University, Republic of Korea <br/>
   
 
-## FUNDING AND AWARDS
+## <center>FUNDING AND AWARDS</center>
 
 - 2018 - 2020     Brain Korea 21 Scholarship, Korea National University
 - 2020 - 2022     Brain Korea 21 Plus Scholarship, Korea National University
