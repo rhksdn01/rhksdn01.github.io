@@ -9,11 +9,13 @@ author_profile: true
 classes: wide
 ---
 
-# About KWK
+# Kwan Woo Kim
 
-Kwan Woo Kim에 대한 소개입니다.  <br/>
+<center>Center for Study of Emerging and Re-emerging Viruses </center> <br/>
+<center>Korea Virus Research Institute (KVRI) </center><br/>
+<center>Institute for Basic Science (IBS) </center><br/>
 
-
+ <br/>
 
 ## Research Area
 
