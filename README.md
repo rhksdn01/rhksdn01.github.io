@@ -46,9 +46,9 @@ Yonsei University, Republic of Korea<br/>
 
 ### Taxonomic analysis 
 
-- Phylogenetic analysis:
+- Phylogenetic analysis:<br/>
   Neighbor joining, Maximum likelihood(iqtree, RAxML), Bayesian method(BEAST, tMRCA)
-- Biochemical analysis:
+- Biochemical analysis:<br/>
   Short-chain fatty acids (SCFAs), MIDI, Polar Lipid anlysis
 - Physiological analysis
 
