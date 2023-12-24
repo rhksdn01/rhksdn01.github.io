@@ -29,7 +29,8 @@ Park C†, **Kim KW†**(co-first), Park D, Hassan Zu, Park EC, Lee C-S, Rahman 
 
 4.Universal Primers for Rift Valley Fever Virus Whole Genome Sequencing
 
-**KW Kim**, BS Lee, SJ Eom, DH Shin, C Park, S Kim* and Hana Yi* . Universal Primers for Rift Valley Fever Virus Whole Genome Sequencing. Scientific Report. 2023. (Under Review).
+**Kim, K.W.**, Lee, B., Eom, S. *et al.* Universal primers for rift valley fever virus whole-genome sequencing. *Sci Rep* **13**, 18688 (2023).
+[Paper 4](https://doi.org/10.1038/s41598-023-45848-z){: .btn .btn--inverse}
 
 ## Microbiology
 
@@ -47,3 +48,5 @@ Baek, Mg., **Kim, K.W.** & Yi, H. Subspecies-level genome comparison of Lactobac
 ## Patents
 
 제가 출원한 특허들 입니다. 
+
+“전장유전체 증폭을 위한 리프트밸리열 바이러스 범용 프라이머 세트 및 이를 이용한 진단 키트”, 출원번호 10-2022-0036137
