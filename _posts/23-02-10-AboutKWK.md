@@ -9,15 +9,13 @@ author_profile: true
 classes: wide
 ---
 
-# Kwan Woo Kim
+# <center>Kwan Woo Kim, PhD.</center>
 
 <center>Center for Study of Emerging and Re-emerging Viruses </center> <br/>
 <center>Korea Virus Research Institute (KVRI) </center><br/>
 <center>Institute for Basic Science (IBS) </center><br/>
 
- <br/>
-
-## Research Area
+## <center>Research Area</center>
 
 - Virology
 - Microbiology
@@ -26,7 +24,7 @@ classes: wide
   
 
 
-## Education
+## <center>Education</center>
 
 - **Ph.D.**
 
@@ -54,7 +52,7 @@ classes: wide
   
 
 
-## EXPERIMENTAL EXPERIENCES AND SKILLS 
+## <center>EXPERIMENTAL EXPERIENCES AND SKILLS </center>
 
 ### Bacterial Culturing diverse organisms
 - Anaerobic and aerobic microorganisms  <br/>
@@ -94,7 +92,7 @@ classes: wide
 
 
 
-## Performed Research Project
+## <center>Performed Research Project</center>
 ---
 - 과제명: 바이러스 고속 시퀀싱을 위한 최적 프로토콜 개발
 - 발주기관명: 과학기술연구회
