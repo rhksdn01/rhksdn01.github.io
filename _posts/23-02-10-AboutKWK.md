@@ -13,10 +13,10 @@ classes: wide
 
 - Working place:<br/>
 
-<center>Center for Study of Emerging and Re-emerging Viruses </center>
-<center>Korea Virus Research Institute (KVRI) </center>
-<center>Institute for Basic Science (IBS) </center>
-<center>(Post-Doctoral Research Associate, Sep. 2023 ~ Now)</center>
+<center>Molecular & cellular Engineering Group </center>
+<center>Bio R&D Center / Core Tech. LAB </center>
+<center>Samsung Biologics </center>
+<center>(Senior Scientist, 2024 ~ Now)</center>
 
 ## <center>Research Area</center>
 
@@ -24,7 +24,19 @@ classes: wide
 - Microbiology
 - Microbiome
 - Bioinformatics <br/>
-  
+
+## <center>**Professional Experience**</center>
+
+- **Senior Scientist**
+
+  2024 – Current <br/>Molecular & cellular Engineering Group <br/>Bio R&D Center / Core Tech. LAB <br/>Samsung Biologics <br/>
+
+- **Post-Doctoral Research Associate**
+
+  2023 – 2024 <br/>Center for Study of Emerging and Re-emerging Viruses <br/>
+  Korea Virus Research Institute (KVRI) <br/>Institute for Basic Science (IBS) <br/>
+
+
 
 
 ## <center>Education</center>
@@ -37,7 +49,6 @@ classes: wide
 
   Mar. 2012 – Aug. 2018 <br/>Applied Biological Science <br/>
   Yonsei University, Republic of Korea <br/>
-  
 
 ## <center>FUNDING AND AWARDS</center>
 
