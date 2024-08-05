@@ -25,7 +25,7 @@ classes: wide
 - Microbiome
 - Bioinformatics <br/>
 
-## <center>**Professional Experience**</center>
+## <center>Professional Experience</center>
 
 - **Senior Scientist**
 
