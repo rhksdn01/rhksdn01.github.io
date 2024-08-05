@@ -32,9 +32,11 @@ Park C†, **Kim KW†**(co-first), Park D, Hassan Zu, Park EC, Lee C-S, Rahman 
 **Kim, K.W.**, Lee, B., Eom, S Eom, D Shin, C Park, S Kim and H Yi. Universal primers for rift valley fever virus whole-genome sequencing. *Sci Rep* 13, 18688 (2023). doi: 10.1038/s41598-023-45848-z.
 [Paper 4](https://doi.org/10.1038/s41598-023-45848-z){: .btn .btn--inverse}
 
-5.Molecular evolution and genetic diversity analysis of severe fever with thrombocytopenia syndrome virus
+5.Deciphering the Evolutionary Landscape of Severe Fever with Thrombocytopenia Syndrome Virus Across East Asia
 
-**Kim, K.W.**  2024.  (under review).
+Dongbin Park, **Kwan Woo Kim**, Young-Il Kim, Mark Anthony B Casel, Hyunwoo Jang, Woohyun Kwon, Kanghee Kim, Se-Mi Kim, Monford Paul Abishek N, Eun-Ha Kim, Hobin Jang, Suhee Hwang, Seok-Min Yun, Joo-Yeon Lee, Hye Won Jeong, Su-Jin Park, Young Ki Choi, Deciphering the Evolutionary Landscape of Severe Fever with Thrombocytopenia Syndrome Virus Across East Asia, *Virus Evolution*, 2024;, veae054. doi.org/10.1093/ve/veae054. [Paper 5](https://doi.org/10.1093/ve/veae054){: .btn .btn--inverse}
+
+
 
 ## Microbiology
 
